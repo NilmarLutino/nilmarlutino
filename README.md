@@ -12,7 +12,7 @@
 ✉️ &nbsp;Puedes escribirme a lutinonilmar@gmail.com o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/nilmar-lutino-silva-78918816b).  
 📄 &nbsp;Aquí tienes mi [CV](https://drive.google.com/file/d/1aD5oJ1POIqnWp2gBfe0eFfHrbGBdKo8A/view?usp=sharing)
 
-<img alt="Night Coding" src="[https://media.tenor.com/dtYKyx_D6xMAAAAC/flotando-hora-de-aventura.gif]" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/dtYKyx_D6xMAAAAC/flotando-hora-de-aventura.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
