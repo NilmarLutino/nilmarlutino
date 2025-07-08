@@ -1,4 +1,4 @@
-![Nilmar Lutino Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Nilmar Lutino Banner]()
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nilmar</h2>
 
@@ -10,7 +10,7 @@
 🚀 &nbsp;He participado en el desarrollo y despliegue de sistemas reales, trabajando con arquitecturas basadas en microservicios.  
 💬 &nbsp;Me gusta documentar, trabajar en equipo y aprender cosas nuevas (especialmente si tienen logs).  
 ✉️ &nbsp;Puedes escribirme a lutinonilmar@gmail.com o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/nilmar-lutino-silva-78918816b).  
-📄 &nbsp;Aquí tienes mi [CV](https://example.com) (puedes enlazar un archivo PDF si lo subes a GitHub o Google Drive).
+📄 &nbsp;Aquí tienes mi [CV](https://drive.google.com/file/d/1aD5oJ1POIqnWp2gBfe0eFfHrbGBdKo8A/view?usp=sharing)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -34,9 +34,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nilmar-lutino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nilmar-lutino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nilmar-lutino&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nilmarlutino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nilmarlutino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nilmarlutino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
