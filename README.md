@@ -8,8 +8,8 @@
 🎓 &nbsp;Actualmente curso el 9° semestre de Ingeniería de Sistemas en la Universidad Católica Boliviana “San Pablo”.  
 🔧 &nbsp;Trabajo como Consultor en Soporte Técnico y Desarrollo en iZi Soluciones Digitales S.A.  
 🚀 &nbsp;He participado en el desarrollo y despliegue de sistemas reales, trabajando con arquitecturas basadas en microservicios.  
-💬 &nbsp;Me gusta documentar, trabajar en equipo y aprender cosas nuevas (especialmente si tienen logs).
-📺 &nbsp;En mis ratos libres disfruto ver *Hora de Aventura*.
+💬 &nbsp;Me gusta documentar, trabajar en equipo y aprender cosas nuevas (especialmente si tienen logs).  
+📺 &nbsp;En mis ratos libres disfruto ver *Hora de Aventura*.  
 ✉️ &nbsp;Puedes escribirme a lutinonilmar@gmail.com o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/nilmar-lutino-silva-78918816b).  
 📄 &nbsp;Aquí tienes mi [CV](https://drive.google.com/file/d/1aD5oJ1POIqnWp2gBfe0eFfHrbGBdKo8A/view?usp=sharing)
 
