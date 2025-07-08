@@ -1,4 +1,4 @@
-![Nilmar Lutino Banner]()
+<!--![Nilmar Lutino Banner]()-->
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nilmar</h2>
 
@@ -12,7 +12,7 @@
 ✉️ &nbsp;Puedes escribirme a lutinonilmar@gmail.com o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/nilmar-lutino-silva-78918816b).  
 📄 &nbsp;Aquí tienes mi [CV](https://drive.google.com/file/d/1aD5oJ1POIqnWp2gBfe0eFfHrbGBdKo8A/view?usp=sharing)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://media.tenor.com/dtYKyx_D6xMAAAAC/flotando-hora-de-aventura.gif)" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
